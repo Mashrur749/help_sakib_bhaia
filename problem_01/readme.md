@@ -11,15 +11,17 @@
 ### tags are  not used in js files
 
 #### Before (in firstscript.js)
+```
 <script>
     document.body.innerHTML = '<h1>Working with heading</h1>';
 </script>
-
+```
 
 #### Current (in firstscript.js)
 
+```
 document.body.innerHTML = '<h1>Working with heading</h1>';
-
+```
 
 Some tips: 
   - Use relative path when including js files
